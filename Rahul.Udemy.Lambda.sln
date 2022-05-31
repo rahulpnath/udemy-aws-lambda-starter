@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32516.85
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rahul.Udemy.Lambda", "Rahul.Udemy.Lambda\Rahul.Udemy.Lambda.csproj", "{FF33EC1D-DF67-479D-9D5D-BACDC2896C0B}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rahul.Udemy.Lambda-Annotations", "Rahul.Udemy.Lambda-Annotations\Rahul.Udemy.Lambda-Annotations.csproj", "{8CA826DA-AE11-4908-8C9A-15519CC2960D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FF33EC1D-DF67-479D-9D5D-BACDC2896C0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF33EC1D-DF67-479D-9D5D-BACDC2896C0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF33EC1D-DF67-479D-9D5D-BACDC2896C0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CA826DA-AE11-4908-8C9A-15519CC2960D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CA826DA-AE11-4908-8C9A-15519CC2960D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CA826DA-AE11-4908-8C9A-15519CC2960D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CA826DA-AE11-4908-8C9A-15519CC2960D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
